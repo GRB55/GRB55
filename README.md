@@ -8,7 +8,7 @@ Passionate about turning raw data into actionable insights. I work across the fu
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-r%C3%ADos-barcel%C3%B3-91a8662a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-rios-barcelo/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gonzaloriosbarcelo@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300BFAE.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.datascienceportfol.io/gonzaloriosbarcelo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gonzariosbarcelo)
