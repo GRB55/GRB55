@@ -60,10 +60,3 @@ ML classification models trained on UCI AQ-10 screening data to support early id
 ![](https://github-readme-stats.vercel.app/api?username=GRB55&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=GRB55&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GRB55&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GRB55&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
