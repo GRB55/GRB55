@@ -1,5 +1,4 @@
 # Gonzalo Ríos Barceló
-
 **Data Science Student** · Buenos Aires, Argentina
 
 Passionate about turning raw data into actionable insights. I work across the full analytical pipeline — from data cleaning and exploratory analysis to model development and interactive visualization. Currently building projects at the intersection of machine learning, applied statistics, and business problem-solving.
@@ -17,6 +16,13 @@ Passionate about turning raw data into actionable insights. I work across the fu
 
 ## 🗂️ Featured Projects
 
+### 🛒 [Retail Sales Performance](https://github.com/GRB55/retail-sales-performance)
+End-to-end sales analytics project on the UCI Online Retail II dataset. Covers star schema design, Python ETL pipeline, T-SQL analysis and a 6-page Power BI dashboard across sales, customers, products, geography and temporal behaviour.
+
+`Python` `SQL Server` `T-SQL` `Power BI` `Pandas` `SQLAlchemy`
+
+---
+
 ### 🔁 [Customer Churn Prediction](https://github.com/GRB55/customer-churn-prediction)
 End-to-end classification project on the Telco Customer Churn dataset. Covers EDA, feature engineering, model training, hyperparameter tuning, and evaluation. Best model: **XGBoost** — 93% accuracy, 0.85 recall on the churn class.
 
@@ -31,18 +37,12 @@ Interactive multi-page dashboard built with **Streamlit** for exploring and anal
 
 ---
 
-### 🧠 [Autism Spectrum Disorder Identification](https://github.com/GRB55/autism-identification)
-ML classification models trained on UCI AQ-10 screening data to support early identification of ASD in adults. Recall-focused evaluation aligned with clinical use case. Best model: **Logistic Regression** — 0.74 recall on positive class.
-
-`Python` `scikit-learn` `LightGBM` `Pandas` `Plotly`
-
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![TSQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
