@@ -1,5 +1,5 @@
 # Gonzalo Ríos Barceló
-**Data Science Student** · Buenos Aires, Argentina
+**Data Analyst** · Buenos Aires, Argentina
 
 Passionate about turning raw data into actionable insights. I work across the full analytical pipeline — from data cleaning and exploratory analysis to model development and interactive visualization. Currently building projects at the intersection of machine learning, applied statistics, and business problem-solving.
 
